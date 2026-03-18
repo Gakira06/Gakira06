@@ -1,6 +1,6 @@
 ## Olá sou o Gabriel Akira
-- 🌱 Eu estou estudando na Fiap, cursando Engenharia de Software
-- 🧑‍💻 Estudando os cursos da alura
+- 🌱 Eu estou estudando na Fiap, cursando Engenharia de Software e fazendo cursos na Alura
+- 🧑‍💻 Trabalhando com desevolvimento Web, React e Node.js
 
 <p align="left">
     <a href="https://github.com/Gakira06?tab=repositories&sort=stargazers">
